@@ -1,0 +1,12 @@
+{
+  "name": "tian/kafkaConsumer",
+  "description": "Just for fun",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "tian\\kafkaConsumer\\": "client/",  
+      "tian\\kafkaProducer\\": "service/"
+    }
+  }
+}
