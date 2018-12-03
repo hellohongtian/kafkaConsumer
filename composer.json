@@ -1,12 +1,12 @@
 {
-  "name": "tian/kafka-consumer",
+  "name": "lihongtian/kafka-consumer",
   "description": "Just for fun",
   "require": {
   },
   "autoload": {
     "psr-4": {
-      "tian\\kafka-consumer\\": "client/",  
-      "tian\\kafka-producer\\": "service/"
+      "lihongtian\\kafka-consumer\\": "client/",  
+      "lihongtian\\kafka-producer\\": "service/"
     }
   }
 }
